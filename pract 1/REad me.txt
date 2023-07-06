@@ -1,0 +1,14 @@
+1A.> A simple client class that generates the private and public keys 
+by using the built-in Python RSA algorithm and test it
+
+1B.>>B)	A transaction class to send and receive money and test it.
+
+1C.>>C) Create multiple transactions and display them.
+
+1D.>>D) Create a blockchain, a genesis block and execute it
+
+
+1E.>>E) Create a mining function and test it.
+
+
+1F.>>F) Add blocks to the miner and dump the blockchain.
