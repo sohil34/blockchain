@@ -12,3 +12,9 @@ by using the built-in Python RSA algorithm and test it
 
 
 1F.>>F) Add blocks to the miner and dump the blockchain.
+
+pip install pycryptodome
+
+pip install rsa
+
+pip3 install rsa
